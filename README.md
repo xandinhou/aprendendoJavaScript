@@ -22,7 +22,7 @@
 
 ### 3. Variáveis em JavaScript
 
-[Numbers](/Estrutura-de-dados-em-python/numbers.md)<br>
+[Numbers](/variaveis/numbers.md)<br>
 [Listas](/Estrutura-de-dados-em-python/listas.md)<br>
 [Dicionarios](/Estrutura-de-dados-em-python/dicionarios.md)<br>
 [Tuplas](/Estrutura-de-dados-em-python/tuplas.md)<br>
