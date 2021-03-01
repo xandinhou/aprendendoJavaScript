@@ -11,19 +11,19 @@
 
 ### 1. Introdução
 
-[Motivação do projeto](/Introdução/motivacao.MD)<br>
-[Introdução](/Introdução/introducao.MD)
+[Motivação do projeto - Em Construção](/Introdução/motivacao.MD)<br>
+[Introdução - Em Construção](/Introdução/introducao.MD)
 
 ### 2. Instalação
 
-[Windows](/Instalação/Windows.md)<br>
-[Linux](/Introdução/Linux.md)<br>
-[MacOS](/Introdução/MacOS.md)
+[Windows - Em Construção](/Instalação/Windows.md)<br>
+[Linux - Em Construção](/Introdução/Linux.md)<br>
+[MacOS - Em Construção](/Introdução/MacOS.md)
 
 ### 3. Variáveis em JavaScript
 
-[Numbers](/variaveis/numbers.md)<br>
-[Listas](/Estrutura-de-dados-em-python/listas.md)<br>
+[Números](/variaveis/numbers.md)<br>
+[Textos](/variaveis/textos.md)<br>
 [Dicionarios](/Estrutura-de-dados-em-python/dicionarios.md)<br>
 [Tuplas](/Estrutura-de-dados-em-python/tuplas.md)<br>
 [Sets](/Estrutura-de-dados-em-python/sets.md)<br>
