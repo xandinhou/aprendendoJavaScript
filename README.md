@@ -24,7 +24,8 @@
 [Características Gerais](/variaveis/gerais.md)<br>
 [Números](/variaveis/numbers.md)<br>
 [Textos](/variaveis/textos.md)<br>
+[Booleanos](/variaveis/booleanos.md)<br>
 [Dicionarios](/Estrutura-de-dados-em-python/dicionarios.md)<br>
 [Tuplas](/Estrutura-de-dados-em-python/tuplas.md)<br>
 [Sets](/Estrutura-de-dados-em-python/sets.md)<br>
-[Booleanos](/Estrutura-de-dados-em-python/booleanos.md)<br>
+
