@@ -27,7 +27,7 @@ Saída:
     number
     number
 ```
-Agora podemos perguntar se o tipo dele são iguais:
+Agora podemos perguntar se o tipo deles são iguais:
 ```
     var iguais = typeof(x) == typeof(y); // Iguais recebe o valor booleano da pergunta (  tipo de x é igual a y?)
     
@@ -41,6 +41,6 @@ Saída
 
 ## Conclusão
 <p>
-  Com isso aprendemos que em JavaScript ele trabalha com apenas um tipo de dado para números,
+  Com isso aprendemos que em JavaScript é trabalhado com apenas um tipo de dado para números,
   não tendo a diferença entre Inteiros e Reais
 </p>
