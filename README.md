@@ -21,7 +21,7 @@
 [MacOS - Em Construção](/Introdução/MacOS.md)
 
 ### 3. Variáveis em JavaScript
-
+[Características Gerais](/variaveis/gerais.md)<br>
 [Números](/variaveis/numbers.md)<br>
 [Textos](/variaveis/textos.md)<br>
 [Dicionarios](/Estrutura-de-dados-em-python/dicionarios.md)<br>
