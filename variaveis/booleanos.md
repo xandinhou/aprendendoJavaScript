@@ -24,8 +24,7 @@
 
 ## Exemplos
 
-<code>
- 
+```
     var a = true
     var b = false
     
@@ -46,9 +45,9 @@
     
     c = b || b 
     console.log(c)
-</code>
+```
 Saída
-<code>
+```
     boolean
     boolean
     false
@@ -56,7 +55,7 @@ Saída
     true
     true
     false
-</code>
+```
 
 ## Finalizando
 Você agora possui conhecimento sobre oque são os booleanos e como eles funcionam, em <b>JavaScript</b>. Prossiga nos seus estudos e pule para o próximo <b>readme.</b>
