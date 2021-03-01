@@ -4,7 +4,7 @@
 
 <p>
     Esse projeto tem o objetivo de melhorar meu aprendizado da lingaguem
-    por meio do ensino e futuramente aprimorar para que seja fonte de conhecimento para outros estudantes
+    por meio do ensino e também como meio de consulta rapida. Futuramente desejo aprimorar e compatilhar com outros estudante
 </p>
 
 ## Etapas
