@@ -1,5 +1,5 @@
 # Características gerais das variaveis
-Variaveis servem para armazenar dados
+Variaveis servem para armazenar dados na memoria, ao declarar uma variavel eu reservo um espaço na memoria conforme o tipo de dado recebido.
  
 ## Identificadores
 Algumas regras sobre os indetificadores (**nomes das variaveis**)
