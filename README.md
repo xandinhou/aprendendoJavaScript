@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js_logo_extended" width="50%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js_logo_extended" width="30%" />
 </h1>
 
 <p align="center">
-    Esse projeto tem o objetivo de compartilhar conhecimento
-    de forma acessível e gratuita, atingindo todos os publicos.
+    Esse projeto tem o objetivo de melhorar meu aprendizado da lingaguem
+    ensinando e futuramente aprimorar para que seja fonte de conhecimento para outros estudantes
 </p>
 
 ## Etapas
