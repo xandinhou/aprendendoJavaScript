@@ -27,7 +27,7 @@ Operações logicas em Javascript:
 * var res = 0 && 1 equivale a false and true só que aqui o retorno é em number( 0 ou 1 ), nesse caso 0
 * var res = true & false, nesse caso, somente com um & o retorno logico será em number ( 0 ou 1 )
 *  var res = true || false equivale a true(**booleano**) or false(**booleano**), res será do tipo **booleano**
-* var res = 0 || 1 equivale a false or true só que aqui o retorno é em number( 0 ou 1 ), nesse caso 0
+* var res = 0 || 1 equivale a false or true só que aqui o retorno é em number( 0 ou 1 ), nesse caso 1
 * var res = true | false, nesse caso, somente com um | o retorno logico será em number ( 0 ou 1 )
 
 
