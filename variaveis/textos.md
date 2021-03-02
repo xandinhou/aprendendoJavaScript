@@ -20,3 +20,7 @@
 
 Para o JavaScript todos tem a mesma função no quesito atribuir porém a
 crase tem um usos especiais que iremos ver mais tarde. 
+
+
+* Metodos:
+https://www.w3schools.com/js/js_string_methods.asp
