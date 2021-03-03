@@ -40,6 +40,8 @@
 
 ## Atribuição
 
+<img src="./Screenshot_18.png" alt="atri" width="30%" />
+
 ## Relacionais
 
 ## Lógicos
